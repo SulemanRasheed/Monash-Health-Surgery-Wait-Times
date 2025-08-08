@@ -18,6 +18,14 @@ It enables rapid comparison of volumes, wait times, and compliance rates, provid
 - Visual design for multi-metric comparison  
 - Healthcare operational performance analysis  
 
+
+---
+## ⚠️ Data Notice
+This dashboard uses **real-world data** sourced from the Australian Institute of Health and Welfare (AIHW) elective surgery waiting times dataset.  
+The data relates to Monash Health and covers the years 2018–2023.  
+The original dataset can be accessed at [AIHW – Elective Surgery Waiting Times](https://www.aihw.gov.au/reports-data/myhospitals/sectors/elective-surgery-waiting-times).
+
+
 ---
 
 ## 🏥 Business Context
