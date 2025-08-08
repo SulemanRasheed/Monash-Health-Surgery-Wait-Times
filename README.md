@@ -59,6 +59,20 @@ This dashboard supports:
 
 ---
 
+## 📁 Files
+
+
+/elective-surgery-wait-times/
+│
+├── Dashboard-Preview.png # Dashboard screenshot
+├── LICENSE # License file
+├── Monash_ElectriceSurgery.pbix # Power BI report file
+├── README.md # Project documentation
+├── ihn269 monash health.xlsx # Source data (MyHospitals.gov.au)
+
+
+---
+
 ## ✅ Getting Started
 
 1. Clone or download this repository.  
