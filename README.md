@@ -25,20 +25,12 @@ This dashboard uses **real-world data** sourced from the Australian Institute of
 The data relates to Monash Health and covers the years 2018–2023.  
 The original dataset can be accessed at [AIHW – Elective Surgery Waiting Times](https://www.aihw.gov.au/reports-data/myhospitals/sectors/elective-surgery-waiting-times).
 
-
----
-
-## 🏥 Business Context
-
-Elective surgery wait times are a critical measure of hospital efficiency, patient access, and compliance with national health standards.  
-This dashboard supports:
-- **Executives & planners** in identifying systemic delays  
-- **Clinicians & managers** in monitoring performance against clinical benchmarks  
-- **Quality teams** in ensuring adherence to recommended timelines  
-
 ---
 
 ## 🎯 Key Stakeholder Questions
+
+Elective surgery wait times are a critical measure of hospital efficiency, patient access, and compliance with national health standards.  
+
 
 | Stakeholder                | Key Question                                                                   | Business Value                  |
 |---------------------------|--------------------------------------------------------------------------------|----------------------------------|
