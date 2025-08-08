@@ -59,20 +59,6 @@ This dashboard supports:
 
 ---
 
-## ⚙️ Tools Used
-
-| Tool        | Purpose                            |
-|-------------|-------------------------------------|
-| Power BI    | Data modeling and visualization     |
-| DAX         | KPI calculations and filtering      |
-| Excel       | Data cleaning and preprocessing     |
-| Git/GitHub  | Version control and portfolio       |
-
----
-
-## 📁 Files
----
-
 ## ✅ Getting Started
 
 1. Clone or download this repository.  
