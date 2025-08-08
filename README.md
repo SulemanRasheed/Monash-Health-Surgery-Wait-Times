@@ -2,7 +2,7 @@
 
 📊 **Power BI Dashboard | Healthcare Analytics Portfolio**
 
-![Dashboard Screenshot](./dashboard-preview.png)  
+![Dashboard Screenshot](./Dashboard-Preview.png)  
 
 ---
 
