@@ -59,25 +59,11 @@ This dashboard supports:
 
 ---
 
-## 📁 Files
-
-
-/elective-surgery-wait-times/
-│
-├── Dashboard-Preview.png # Dashboard screenshot
-├── LICENSE # License file
-├── Monash_ElectriceSurgery.pbix # Power BI report file
-├── README.md # Project documentation
-├── ihn269 monash health.xlsx # Source data (MyHospitals.gov.au)
-
-
----
-
 ## ✅ Getting Started
 
 1. Clone or download this repository.  
 2. Open `Monash_ElectiveSurgery.pbix` in **Power BI Desktop**.  
-3. Load `Monash_WaitTimes.xlsx` as the data source.  
+3. May Load `lhn269 monash health.xlsx` as the data source.  
 4. Use slicers to filter by **urgency level** or **year** to explore trends.  
 
 ---
