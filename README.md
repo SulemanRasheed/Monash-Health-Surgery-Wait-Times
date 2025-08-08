@@ -1,55 +1,61 @@
-# 🏥 Elective Surgery Waiting Times – Monash Health (2018–2024)
+# 🏥 Elective Surgery Waiting Times – Monash Health (2018–2023)
 
 📊 **Power BI Dashboard | Healthcare Analytics Portfolio**
 
-![Dashboard Screenshot](./Dashboard-Preview.png)
+![Dashboard Screenshot](./dashboard-preview.png)  
+
 ---
 
 ## 🔍 Project Overview
 
-This Power BI dashboard analyzes **elective surgery wait times** at **Monash Health**, a major Local Hospital Network in Australia, from **2018 to 2024**. It identifies trends, post-COVID disruptions, and specialties or procedures with the longest delays.  
+This Power BI dashboard presents a **side-by-side comparison of elective surgery wait times** across **urgent, semi-urgent, and non-urgent** categories at **Monash Health**, a major Local Hospital Network in Australia, from **2018 to 2023**.  
 
-The dashboard demonstrates skills in:
-- Data modeling and transformation (Power BI, DAX)
-- Healthcare KPI development
-- Operational and clinical performance analysis
-- Effective stakeholder-driven storytelling
+It enables rapid comparison of volumes, wait times, and compliance rates, providing stakeholders with actionable insights for operational and clinical decision-making.  
+
+**Skills demonstrated:**
+- Power BI data modeling & DAX calculations  
+- KPI development & alignment with clinical reporting standards  
+- Visual design for multi-metric comparison  
+- Healthcare operational performance analysis  
 
 ---
 
 ## 🏥 Business Context
 
-Elective surgery wait times are key performance indicators for hospital efficiency and patient access. This dashboard helps decision-makers understand how service delivery has evolved, especially during and after the COVID-19 pandemic.
+Elective surgery wait times are a critical measure of hospital efficiency, patient access, and compliance with national health standards.  
+This dashboard supports:
+- **Executives & planners** in identifying systemic delays  
+- **Clinicians & managers** in monitoring performance against clinical benchmarks  
+- **Quality teams** in ensuring adherence to recommended timelines  
 
 ---
 
 ## 🎯 Key Stakeholder Questions
 
-| Stakeholder                | Key Question                                                                                  | Business Value                  |
-|---------------------------|-----------------------------------------------------------------------------------------------|----------------------------------|
-| Clinical Services Manager | Which **procedures or specialties** face the longest wait times?                              | Operational, Patient Access     |
-| Hospital Operations Lead  | How has **COVID-19** impacted waiting times across urgency levels?                            | Efficiency, Resilience Planning |
-| Quality & Safety Team     | What % of patients were treated **within recommended clinical timeframes**?                   | Compliance, Quality of Care     |
-| Department Heads          | Are delays **concentrated in specific specialties or procedures**?                            | Resource Allocation             |
+| Stakeholder                | Key Question                                                                   | Business Value                  |
+|---------------------------|--------------------------------------------------------------------------------|----------------------------------|
+| Clinical Services Manager | How do wait times differ across **urgency categories**?                         | Operational, Patient Access     |
+| Hospital Operations Lead  | Which categories have **seen the greatest change over time**?                   | Efficiency, Resource Planning   |
+| Quality & Safety Team     | What % of patients were treated **within recommended timeframes** each year?    | Compliance, Quality of Care     |
+| Executives                | Where are the **biggest opportunities** to reduce delays?                       | Strategic Planning              |
 
 ---
 
 ## 📊 KPIs Visualized
 
-- 📅 **Median Waiting Time** (in days)
-- ✅ **% Patients Treated on Time**
-- 🔧 **Top 5 Procedures** by delay
-- 🧪 **Top 5 Specialties** by wait time
-- 🕒 Year-wise trends by **urgency level** (Non-urgent, Semi-urgent, Urgent)
+- **Total Surgeries Performed** (per urgency level & year)  
+- **Median Wait Time for Surgery** (days)  
+- **% Patients Treated Within Recommended Time** (with overall compliance gauge)  
+- Trend comparisons **2018–2023** across urgency categories  
 
 ---
 
-## 💡 Insights
+## 💡 Key Insights
 
-- Non-urgent surgeries experienced **peak delays in 2020–21**, likely due to COVID restrictions.
-- Urgent surgeries were mostly treated **within recommended timeframes** across all years.
-- Specialties like **ENT**, **Gynaecology**, and **Vascular Surgery** had elevated wait times.
-- Procedures such as **vaginal repair** and **rhinoplasty** saw significant year-on-year increases in wait time.
+- **Urgent surgeries** maintained **100% on-time treatment** across all years.  
+- **Semi-urgent and non-urgent** categories saw sharp declines in on-time performance during 2020–21, coinciding with COVID-19 restrictions.  
+- **Non-urgent wait times** peaked at over **220 days in 2020** before declining but remain above pre-pandemic levels.  
+- Year-on-year improvements in 2022–23 suggest recovery but gaps remain in lower-priority categories.  
 
 ---
 
@@ -58,40 +64,31 @@ Elective surgery wait times are key performance indicators for hospital efficien
 | Tool        | Purpose                            |
 |-------------|-------------------------------------|
 | Power BI    | Data modeling and visualization     |
-| DAX         | KPI measures and dynamic filtering  |
-| Excel       | Preprocessing source data           |
+| DAX         | KPI calculations and filtering      |
+| Excel       | Data cleaning and preprocessing     |
 | Git/GitHub  | Version control and portfolio       |
 
 ---
 
 ## 📁 Files
-
-```
-/elective-surgery-wait-times/
-│
-├── Monash_ElectiveSurgery.pbix       # Power BI report
-├── Monash_WaitTimes.xlsx             # Source data (MyHospitals.gov.au)
-├── dashboard-preview.png             # Dashboard image
-├── README.md                         # This file
-```
-
 ---
 
 ## ✅ Getting Started
 
-1. Clone or download this repository.
-2. Open `Monash_ElectiveSurgery.pbix` in **Power BI Desktop**.
-3. Load `Monash_WaitTimes.xlsx` as the data source.
-4. Use slicers to filter by **year**, **measure**, or **patient cohort**.
+1. Clone or download this repository.  
+2. Open `Monash_ElectiveSurgery.pbix` in **Power BI Desktop**.  
+3. Load `Monash_WaitTimes.xlsx` as the data source.  
+4. Use slicers to filter by **urgency level** or **year** to explore trends.  
 
 ---
 
 ## 📌 About Me
 
-I'm a biomedical engineer and healthcare data analyst, with experience in hospital operations, bioprocess modeling, and clinical performance reporting. This project is part of my professional portfolio showcasing real-world analytics in healthcare.
+I’m a biomedical engineer and healthcare data analyst with experience in:
+- Hospital performance reporting  
+- Healthcare operations analytics  
+- Data visualization and KPI design in Power BI  
 
 📧 [Email Me](mailto:your.email@example.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)
-
----
+🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)  
 
