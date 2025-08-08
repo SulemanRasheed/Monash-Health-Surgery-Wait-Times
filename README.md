@@ -23,7 +23,8 @@ It enables rapid comparison of volumes, wait times, and compliance rates, provid
 ## ⚠️ Data Notice
 This dashboard uses **real-world data** sourced from the Australian Institute of Health and Welfare (AIHW) elective surgery waiting times dataset.  
 The data relates to Monash Health and covers the years 2018–2023.  
-The original dataset can be accessed at [AIHW – Elective Surgery Waiting Times](https://www.aihw.gov.au/reports-data/myhospitals/sectors/elective-surgery-waiting-times).
+The original dataset can be obtained from [https://www.aihw.gov.au/reports-data/myhospitals/sectors/elective-surgery-waiting-times](https://www.aihw.gov.au/hospitals/latest-updates-and-downloads/data)).
+
 
 ---
 
